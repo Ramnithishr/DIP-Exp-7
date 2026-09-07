@@ -1,4 +1,4 @@
-# EXP 7 - Lane Detection
+# EXP 7 - HOUGH TRANSFORM
 
 # Name: Ramnithish R
 # Register No: 212224230219
